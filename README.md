@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Multimodal learning, Document understanding at MSRA as a research intern.
+🔭 I’m currently working at ByteDance Ads.
 
 🌱 I’m currently learning ML/DL.
+
+👯 I used to work at MSRA / SenseTime / ByteDance AI Lab. 
 
 📫 zxmeng98@gmail.com
 <!--
