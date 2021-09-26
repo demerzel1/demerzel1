@@ -7,6 +7,10 @@
 👯 I used to work at MSRA / SenseTime / ByteDance AI Lab. 
 
 📫 zxmeng98@gmail.com
+
+![demerzel1's GitHub stats](https://github-readme-stats.vercel.app/api?username=demerzel1&count_private=true&show_icons=true)
+
+
 <!--
 **demerzel1/demerzel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
