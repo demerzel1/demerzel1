@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working at ByteDance Ads.
+🔭 I’m currently working at DiDi Voyager (Autonomous Driving).
 
 🌱 I’m currently learning ML/DL.
 
-👯 I used to work at MSRA / SenseTime / ByteDance AI Lab. 
+👯 I used to work at TikTok Ads / MSRA / SenseTime / ByteDance AI Lab as an intern. 
 
 📫 zxmeng98@gmail.com
 
