@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Visits Badge](https://badges.pufler.dev/visits/demerzel1/git-badges)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/demerzel1/demerzel1)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/demerzel1)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/demerzel1)](https://badges.pufler.dev)
 
