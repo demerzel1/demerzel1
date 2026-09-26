@@ -3,9 +3,9 @@
 [![Years Badge](https://badges.pufler.dev/years/demerzel1)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/demerzel1)](https://badges.pufler.dev)
 
-🔭 I'm working with Einride & Chalmers & GU. My industrial PhD connects Einride with the Department of Computer Science and Engineering at Chalmers and the University of Gothenburg, supported by the Swedish Foundation for Strategic Research (SSF). My current research focuses on AI agents.
+🔭 I'm working with Einride & Chalmers & GU. My industrial PhD connects Einride with the Department of Computer Science and Engineering at Chalmers and the University of Gothenburg, supported by the Swedish Foundation for Strategic Research (SSF).
 
-🌱 I’m currently learning AI agent.
+🌱 I’m currently learning AI agents.
 
 👯 Previously, I was a Principal Engineer in Robotics at HONOR and a Senior Machine Learning Engineer at DiDi Voyager.
 
